@@ -24,8 +24,8 @@ The main purpose of this project is to demonstrate the use of parallel processin
 
 2. **Create and activate a Conda environment**:
     ```bash
-    conda create -n myenv python=3.8 numpy mpi4py scipy pillow
-    conda activate myenv
+    conda create -n myenvlab7y8 python=3.8 numpy mpi4py scipy pillow
+    conda activate myenvlab7y8
     ```
 
 3. **Install additional dependencies**:
