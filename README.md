@@ -16,8 +16,10 @@ The main purpose of this project is to demonstrate the use of parallel processin
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/pamelaguamanp/HPC-mpi4py
+    cd HPC-mpi4py
+
+   
     ```
 
 2. **Create and activate a Conda environment**:
@@ -58,11 +60,11 @@ The output of this project is the **processed version of the input image**. Afte
 **Input Image:**
 
 - `original_image.jpg`: A test image of a face loaded from SciPy datasets.
-
+![Input Image](original_image.jpg)
 **Output Image:**
 
 - `processed_image.jpg`: The same image after applying a convolution filter (smoothing effect applied to each color channel).
-
+![Input Image](processed_image.jpg)
 ---
 
 ## **Running the Code**
